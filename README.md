@@ -46,7 +46,3 @@ Using the tuned parameters, the model achieved a more balanced performance betwe
 
 * `svr_implementation.ipynb`: The primary Jupyter Notebook containing the SVR model logic, kernel analysis, and hyperparameter tuning.
 
-## ⚙️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Priyanshu-pandey1/Support-Vector-Regression.git](https://github.com/Priyanshu-pandey1/Support-Vector-Regression.git)
